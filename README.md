@@ -9,6 +9,7 @@ Go To <a href="https://github.com/Miguelsgamingch/Earth-Blows-Up-Beta/releases">
 And Download the latest public beta version
 After downloading .html, you can just open it with your browser
 Chrome, firefox, edge, etc.
+The Full V1 Is at Itch.io.
 # License
 ### Earth Blows Up License is <a href="https://github.com/Miguelsgamingch/Earth-Blows-Up-Beta/blob/main/LICENSE">GNU General Public License v3.0</a>
 # By RGB Software
